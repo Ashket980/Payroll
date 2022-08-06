@@ -29,21 +29,21 @@ _________________________________________
 **OUTPUT**
 
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/1.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/1.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/2.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/2.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/3.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/3.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/4.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/4.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/5.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/5.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/6.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/6.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/7.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/7.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/8.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/8.png?raw=true" width=50% height=50%>
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true" width=50% height=50%>
+        <img src="https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true" width=50% height=50%>
 
