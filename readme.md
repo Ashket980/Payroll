@@ -1,5 +1,13 @@
 # Payroll
 
+_________________________________________
+
+**A payroll is the list of employees of some company that is entitled to receive payments as well as other work benefits and the amounts that each should receive. Along with the amounts that each employee should receive for time worked or tasks performed, payroll can also refer to a company's records of payments that were previously made to employees, including salaries and wages, bonuses, and withheld taxes, or the company's department that deals with compensation. A company may handle all aspects of the payroll process in-house or can outsource aspects to a payroll processing company.**
+
+
+_________________________________________
+
+
 **Content**
 
 
