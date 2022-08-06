@@ -28,7 +28,7 @@ _________________________________________
 
 **OUTPUT**
 
-![]()
+![](https://github.com/Ashket980/Payroll/blob/main/Output/1.png?raw=true)
 
 ![]()
 
