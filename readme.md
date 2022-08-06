@@ -47,4 +47,4 @@ _________________________________________
  ![](https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true)
 
 
-<img src="https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true" width="150" height="280">
+<img src="https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true" width=50% height=50%>
