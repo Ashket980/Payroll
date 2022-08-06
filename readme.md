@@ -45,3 +45,6 @@ _________________________________________
  ![](https://github.com/Ashket980/Payroll/blob/main/Output/8.png?raw=true)
 
  ![](https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true)
+
+
+<img src="https://github.com/Ashket980/Payroll/blob/main/Output/9.png?raw=true" width="150" height="280">
